@@ -9,12 +9,17 @@ END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[bteste;
+
+
+//kkkk
 iVar:=iVar+1;
 
 ]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
+      <LineId Id="15" Count="1" />
+      <LineId Id="14" Count="0" />
       <LineId Id="11" Count="1" />
       <LineId Id="6" Count="0" />
     </LineIds>
